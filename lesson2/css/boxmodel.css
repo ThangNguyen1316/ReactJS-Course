@@ -1,0 +1,16 @@
+img{
+    max-width: 100%;
+}
+div{
+    width: calc(33% - 42px);
+    float: left;
+    margin: 10px 10px 30px;
+    border: 1px solid red;
+    padding: 10px;
+    border-radius: 10%;
+}
+
+.special{
+    background-color: yellow;
+    font-family: 'Roboto', sans-serif;
+}
