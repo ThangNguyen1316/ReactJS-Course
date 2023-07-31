@@ -1,0 +1,25 @@
+.block{
+    width: 100%;
+    float: left;
+}
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+.btn{
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin-top: 25px;
+}
+.btn a{
+    color: #ffffff;
+    font-size: 16px;
+    padding: 6px 12px;
+    background-color: #8c8888;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.btn .btn-blue{
+    background-color: #007bff;
+}
